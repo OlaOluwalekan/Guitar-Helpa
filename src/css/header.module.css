@@ -1,0 +1,16 @@
+.main {
+  background-color: brown;
+  padding: 10px 20px;
+  margin-bottom: 40px;
+}
+
+.main > h2 {
+  color: white;
+  letter-spacing: 3px;
+  font-weight: 900;
+}
+
+.main > h2 > span {
+  /* background-color: white; */
+  color: burlywood;
+}
